@@ -49,16 +49,16 @@ const OurProducts = () => {
     <section className="relative bg-[#12204b] py-16 text-white">
       {/* Top Wave */}
       <div className="absolute top-0 left-0 w-full overflow-hidden leading-none rotate-180 -translate-y-full">
-        {/* <svg
-          viewBox="0 0 1440 150"
-          xmlns="http://www.w3.org/2000/svg"
-          className="w-full h-24"
-        >
-          <path
-            fill="#fff"
-            d="M0,96L80,112C160,128,320,160,480,160C640,160,800,128,960,101.3C1120,75,1280,53,1360,42.7L1440,32L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"
-          />
-        </svg> */}
+            {/* <svg
+            viewBox="0 0 1440 150"
+            xmlns="http://www.w3.org/2000/svg"
+            className="w-full h-24"
+            >
+            <path
+                fill="#fff"
+                d="M0,96L80,112C160,128,320,160,480,160C640,160,800,128,960,101.3C1120,75,1280,53,1360,42.7L1440,32L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"
+            />
+            </svg> */}
       </div>
 
       {/* Content */}

@@ -27,7 +27,7 @@ const blogData = [
 
 export default function OurBlogs() {
   return (
-    <section className=" px-4 sm:px-8 lg:px-16 bg-white">
+    <section className=" px-4 sm:px-8 lg:px-16 bg-white mb-4">
       <h2 className="text-3xl font-bold text-center mb-8">
         Our{" "}
         <span className="text-green-600 border-b-4 border-green-600">
