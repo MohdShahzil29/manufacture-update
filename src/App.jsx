@@ -8,6 +8,7 @@ import AboutUs from "./pages/AboutUs";
 import Blog from "./pages/Blog";
 import Event from "./pages/Event";
 import EventDetails from "./pages/EventDetails";
+import Service from "./pages/Service";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/events" element={<Event />} />
         <Route path="/events/:id" element={<EventDetails />} />
+        <Route path="/service" element={<Service /> }/>
       </Routes>
       <Footer />
     </>
